@@ -1,5 +1,5 @@
 package ll.Level0.P120903;
-
+// 배열의 유사도
 import java.util.Objects;
 
 public class Main {
