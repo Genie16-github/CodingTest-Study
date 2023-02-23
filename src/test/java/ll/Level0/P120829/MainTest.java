@@ -3,7 +3,8 @@ package ll.Level0.P120829;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import static org.assertj.core.api.Assertions.*;
+import static org.assertj.core.api.Assertions.assertThat;
+
 
 public class MainTest {
     @Test
@@ -29,4 +30,5 @@ public class MainTest {
     void t4() {
         assertThat(new Solution().solution(90)).isEqualTo(2);
     }
+
 }
