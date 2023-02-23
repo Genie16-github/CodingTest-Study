@@ -7,7 +7,6 @@ import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
 
 class MainTest {
-
     @Test
     @DisplayName("I love you~ 를 입력 -> 22를 출력")
     void main() {
