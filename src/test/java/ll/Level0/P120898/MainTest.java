@@ -3,7 +3,8 @@ package ll.Level0.P120898;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import static org.assertj.core.api.Assertions.*;
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+
 
 class MainTest {
 
