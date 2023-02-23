@@ -7,8 +7,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println(new Solution().solution(new String[]{"a", "b", "c"}, new String[]{"com", "b", "d", "p", "c"}));
         System.out.println(new Solution().solution(new String[]{"n", "omg"}, new String[]{"m", "dot"}));
-
-
     }
 }
 
