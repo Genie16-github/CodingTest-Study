@@ -18,5 +18,4 @@ class MainTest {
     void t2() {
         assertThat(new Solution().solution(15)).isEqualTo(new int[]{1, 3, 5, 7, 9, 11, 13, 15});
     }
-
 }
