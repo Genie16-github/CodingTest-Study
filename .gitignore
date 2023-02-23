@@ -89,9 +89,7 @@ fabric.properties
 # *.ipr
 
 # build 무시
-.build/
-.gradle/
-*.html
+build/
 
 # Sonarlint plugin
 # https://plugins.jetbrains.com/plugin/7973-sonarlint

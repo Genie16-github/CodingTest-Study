@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ll.Level0.p1111.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-23T02:47:43" hostname="DESKTOP-BCO5GBM" time="0.012">
-  <properties/>
-  <testcase name="t1()" classname="ll.Level0.p1111.MainTest" time="0.012"/>
-  <system-out><![CDATA[sfddsd
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
