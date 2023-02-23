@@ -7,6 +7,7 @@ import static org.assertj.core.api.Assertions.*;
 
 
 class MainTest {
+
     @Test
     @DisplayName(" [a, b, c]와 [com, b, d, p, c] 입력 -> 결과 2 출력")
     void t1(){
