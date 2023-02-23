@@ -1,11 +1,9 @@
 package ll.Level0.P120829;
 
 // 각도기
-import java.util.Objects;
 
 public class Main {
     public static void main(String[] args) {
-
     }
 }
 

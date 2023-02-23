@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ll.Level0.P120829.MainTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-02-23T01:29:27" hostname="DESKTOP-BCO5GBM" time="0.047">
+<testsuite name="ll.Level0.P120829.MainTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-02-23T01:33:55" hostname="DESKTOP-BCO5GBM" time="0.047">
   <properties/>
   <testcase name="70도가 입력되었을 때 1 출력" classname="ll.Level0.P120829.MainTest" time="0.043"/>
-  <testcase name="91도가 입력되었을 때 3 출력" classname="ll.Level0.P120829.MainTest" time="0.001"/>
+  <testcase name="92도가 입력되었을 때 3 출력" classname="ll.Level0.P120829.MainTest" time="0.0"/>
   <testcase name="180도가 입력되었을 때 4 출력" classname="ll.Level0.P120829.MainTest" time="0.0"/>
-  <testcase name="90도가 입력되었을 때 2 출력" classname="ll.Level0.P120829.MainTest" time="0.0"/>
+  <testcase name="90도가 입력되었을 때 2 출력" classname="ll.Level0.P120829.MainTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

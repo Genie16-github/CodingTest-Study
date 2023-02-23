@@ -13,9 +13,9 @@ public class MainTest {
     }
 
     @Test
-    @DisplayName("91도가 입력되었을 때 3 출력")
+    @DisplayName("92도가 입력되었을 때 3 출력")
     void t2() {
-        assertThat(new Solution().solution(91)).isEqualTo(3);
+        assertThat(new Solution().solution(92)).isEqualTo(3);
     }
 
     @Test
