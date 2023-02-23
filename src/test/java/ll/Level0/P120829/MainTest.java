@@ -7,6 +7,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 
 public class MainTest {
+
     @Test
     @DisplayName("70도가 입력되었을 때 1 출력")
     void t1() {
